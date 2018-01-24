@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ayush/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/ayush/Downloads/TicTacToeABBS1/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_161b6c2822359b114eb8cf60977a00494261e315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayush/Downloads/TicTacToeABBS1/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af4cc326e6cd92f88db12298767e521743aedd36">
+        <dex dex="/home/ayush/Downloads/TicTacToeABBS1/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-19.1.0_cc00adf060f01755aaf82c69a6d7c4c064e5da57.jar" />
+    </item>
+
+</items>

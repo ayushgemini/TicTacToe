@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ayush/Downloads/TicTacToeABBS1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ayush/Downloads/TicTacToeABBS1/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/ayush/Downloads/TicTacToeABBS1/app/build/intermediates/res/merged/debug/layout/activity_normal.xml",
+        "source": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/layout/activity_normal.xml"
+    }
+]

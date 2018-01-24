@@ -1,0 +1,413 @@
+[
+    {
+        "outputFile": "/home/ayush/Downloads/TicTacToeABBS1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 40,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2240,
+                    "endColumn": 57,
+                    "endOffset": 2293
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2298,
+                    "endColumn": 55,
+                    "endOffset": 2349
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2354,
+                    "endColumn": 40,
+                    "endOffset": 2390
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2395,
+                    "endColumn": 43,
+                    "endOffset": 2434
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.1.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2439,
+                    "endColumn": 31,
+                    "endOffset": 2466
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2471,
+                    "endColumn": 31,
+                    "endOffset": 2498
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2503,
+                    "endColumn": 40,
+                    "endOffset": 2539
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/bool.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2544,
+                    "endColumn": 38,
+                    "endOffset": 2578
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/bool.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2583,
+                    "endColumn": 45,
+                    "endOffset": 2624
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2629,
+                    "endLine": 61,
+                    "endColumn": 9,
+                    "endOffset": 2783
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2788,
+                    "endColumn": 43,
+                    "endOffset": 2827
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2832,
+                    "endColumn": 68,
+                    "endOffset": 2896
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2901,
+                    "endColumn": 52,
+                    "endOffset": 2949
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2954,
+                    "endColumn": 48,
+                    "endOffset": 2998
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3003,
+                    "endColumn": 68,
+                    "endOffset": 3067
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 974,
+                        "endColumn": 68,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3072,
+                    "endColumn": 26,
+                    "endOffset": 3094
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3099,
+                    "endColumn": 43,
+                    "endOffset": 3138
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3143,
+                    "endColumn": 41,
+                    "endOffset": 3180
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3185,
+                    "endColumn": 52,
+                    "endOffset": 3233
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3238,
+                    "endColumn": 45,
+                    "endOffset": 3279
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3284,
+                    "endColumn": 47,
+                    "endOffset": 3327
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3332,
+                    "endColumn": 50,
+                    "endOffset": 3378
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3383,
+                    "endColumn": 75,
+                    "endOffset": 3454
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3459,
+                    "endColumn": 41,
+                    "endOffset": 3496
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3501,
+                    "endColumn": 54,
+                    "endOffset": 3551
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3556,
+                    "endColumn": 64,
+                    "endOffset": 3616
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3621,
+                    "endColumn": 51,
+                    "endOffset": 3668
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3673,
+                    "endColumn": 54,
+                    "endOffset": 3723
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3728,
+                    "endColumn": 41,
+                    "endOffset": 3765
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3770,
+                    "endLine": 83,
+                    "endColumn": 12,
+                    "endOffset": 3848
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3853,
+                    "endLine": 86,
+                    "endColumn": 12,
+                    "endOffset": 3920
+                },
+                "from": {
+                    "file": "/home/ayush/Downloads/TicTacToeABBS1/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]
